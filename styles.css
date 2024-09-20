@@ -1,1 +1,25 @@
+body {
 
+			margin: 0;
+			font-family: Arial, sans-serif;
+		}
+.navbar {
+			background-color: #8c52ff;
+			height: 40px;
+			color: white;
+			padding: 10px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			position: relative;
+		}
+.navbar img {
+			height: 40px;
+			position: absolute;
+			top: 10px;
+			left: 10px;
+		}
+.content {
+			padding: 20px;
+			text-align: center;
+		}
